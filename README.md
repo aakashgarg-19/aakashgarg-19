@@ -31,4 +31,4 @@
 
 <p><img align="left" height="175px"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashgarg-19&show_icons=true&locale=en&layout=compact" alt="aakashgarg-19" /></p>
 
-<p>&nbsp;<img align="right" height="185px"  width="430px" src="https://github-readme-stats.vercel.app/api?username=aakashgarg-19&show_icons=true&locale=en" alt="aakashgarg-19" /></p>
+<p>&nbsp;<img align="right" height="185px"  width="410px" src="https://github-readme-stats.vercel.app/api?username=aakashgarg-19&show_icons=true&locale=en" alt="aakashgarg-19" /></p>
