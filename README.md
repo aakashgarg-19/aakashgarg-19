@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashgarg-19&label=Profile%20views&color=0e75b6&style=flat" alt="aakashgarg-19" height="25px"/> </p>
 
-<p align="left"> <a href="https://twitter.com/aakashg27856009" target="blank"><img height="25px" src="https://img.shields.io/twitter/follow/aakashg27856009?logo=twitter&style=for-the-badge" alt="aakashg27856009" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Aakash_onLand" target="blank"><img height="25px" src="https://img.shields.io/twitter/follow/Aakash_onLand?logo=twitter&style=for-the-badge" alt="Aakash_onLand" /></a> </p>
 
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
   <img align="right" height="250px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
