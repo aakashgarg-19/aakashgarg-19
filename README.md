@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Frontend developer and Sophomore B.tech(IT) Undergrad at MAIT,Delhi.</h3>
 
 <hr>
-<img align="right" height="200px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
+<img align="right" height="190px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
 - 🌱 I’m currently learning **Data Structures and Javascript**
 
