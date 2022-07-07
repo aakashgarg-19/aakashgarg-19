@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Aakash Garg</h1>
-<h3 align="center">A Passionate Frontend developer and Sophomore B.tech(IT) Undergrad at MAIT,Delhi.</h3>
+<h3 align="center">A Passionate Frontend developer and Sophomore B.tech(IT) Undergrad at MAIT, Delhi.</h3>
 
 <hr>
 <img align="right" height="190px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
