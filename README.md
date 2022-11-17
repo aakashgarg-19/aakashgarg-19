@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **https://www.linkedin.com/in/aakash-garg-84092b1b7/**
+- 📫 How to reach me **https://www.linkedin.com/in/aakash-garg-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-84092b1b7/**
 - <p align="left"> <a href="https://twitter.com/Aakash_onLand" target="blank"><img height="20px" src="https://img.shields.io/twitter/follow/Aakash_onLand?logo=twitter&style=for-the-badge" alt="Aakash_onLand" /></a> </p>
 
 ---
