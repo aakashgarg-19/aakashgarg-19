@@ -5,7 +5,7 @@
 <img align="right" height="190px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
 - 🌱 I’m currently learning **Data Structures and Javascript**
-- 
+
 - 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **https://www.linkedin.com/in/aakash-garg-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-84092b1b7/**
